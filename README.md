@@ -264,4 +264,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Author
 
-Andreas Theis — atheis87@googlemail.com — [LinkedIn](www.linkedin.com/in/andreas-theis-261a46384) — [GitHub](https://github.com)
+[Your Name] — [your.email@example.com] — [LinkedIn](https://linkedin.com) — [GitHub](https://github.com)
